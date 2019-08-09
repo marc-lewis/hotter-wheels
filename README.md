@@ -1,10 +1,10 @@
-#Hottest Wheels
+# Hottest Wheels
 
 Do you not dislike loving Mario Kart? Do you even like Need 4 Speed? Do you particularly fancy Paul Walker and you'd like to live _exactly the same_ lifestyle? Well don't even not start it, no.
 
 Hottest Wheels aims to bring you the _hottest_, _wheelest_ (could use tracks tbf) RC racing experience around. Capture the thrill as you drive off course, your wheels fall off, you fall over IRL, or you pull up in last place because you are absolute trash.
 
-#Enough already, what the heck is it?
+# Enough already, what the heck is it?
 
 The general idea is bastardize some lego technics to handle a Raspberry Pi Zero W hooked up to some gear motors, control it with a bluetoot xbox controller, and have them internet connected so that we can do speed penalties and other banterous things to the cars.
 
@@ -33,8 +33,10 @@ https://shop.pimoroni.com/products/micro-metal-gearmotor-extended-back-shaft?var
 https://shop.pimoroni.com/products/optical-encoder-pair-kit-for-micro-metal-gearmotors-3-3v
 - Gear motor lego shim £3
 https://shop.pimoroni.com/products/micro-metal-gearmotor-to-lego-axle-adaptor
+- Pi Zero w £9.30
+- 6v Reachargeable Battery Pack £15
 
-Total Cost £79.95
+Total Cost £104.25
 
 ## Additional components
 - I think we all own xbox one controllers
